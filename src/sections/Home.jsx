@@ -65,7 +65,7 @@ export const Home = ({ openContactModal }) => {
 
                 {/* Subtitle */}
                 <p className="font-body text-white md:text-2xl text-sm font-normal lg:w-4/6 mx-auto lg:mx-0">
-                Premium Township in Sarjapur, East Bangalore
+                Premium Township in Sarjapur
                   
                 </p>
               </div>
@@ -106,7 +106,7 @@ export const Home = ({ openContactModal }) => {
               className="h-3 md:h-6 text-black"
             />
             <p className="max-w-96 font-body text-left text-black md:text-2xl text-xs font-medium leading-[130%]">
-            Near STRR{/* Location name */}
+            East Bangalore{/* Location name */}
             </p>
           </div>
         </div>

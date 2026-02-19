@@ -25,7 +25,7 @@ export const Banner = ({ setContactModal }) => {
     isBannerVisible && (
       <div className="w-screen bg-black text-white text-center p-[5px] flex justify-center items-center gap-[10px] max-h-[30px] z-30">
         <span className={`font-sans font-semibold ${isMobile ? "text-[12px] leading-[14px]" : "text-[16px] leading-[16px]"}`}>
-          20:20:60 Payment Plan{" "}
+          3 Acres dedicated to a Temple{" "}
         </span>
         <div className="flex items-center justify-center gap-[4px] cursor-pointer" onClick={() => setContactModal(true)}>
           <span className={`font-sans font-semibold ${isMobile ? "text-[12px] leading-[14px]" : "text-[16px] leading-[16px]"} hover:underline hover:decoration-white`}></span>

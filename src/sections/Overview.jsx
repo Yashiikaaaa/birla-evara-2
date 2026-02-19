@@ -19,7 +19,7 @@ export const Overview = ({ openContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-           Birla Evara Phase 2 - Sarjapur Road
+           Birla Evara Phase 2 - 20:20:60 Payment Plan
           </span>
           <br />
           
