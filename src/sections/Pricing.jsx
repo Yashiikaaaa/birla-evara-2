@@ -24,14 +24,14 @@ const Pricing = ({ openContactModal, formSubmitted }) => {
   };
 
   const propertyTypes = [
-    //  { 
-    //   type: "1 BHK", 
-    //   price: "₹ 3.25 Cr ++", 
-    //   size: "2,400 Sq.ft.", 
-    //   image: bhk1,
-    //   leadSource: LEAD_SOURCES.PRICING_sqft2400, // or appropriate lead source
-    //   propertyType: PROPERTY_TYPES.sqft2400
-    // },
+     { 
+      type: "1 BHK", 
+      price: "₹ 3.25 Cr ++", 
+      size: "2,400 Sq.ft.", 
+      image: bhk1,
+      leadSource: LEAD_SOURCES.PRICING_sqft2400, // or appropriate lead source
+      propertyType: PROPERTY_TYPES.sqft2400
+    },
      { 
       type: "2 BHK", 
       price: "₹ 3.25 Cr ++", 
@@ -49,7 +49,7 @@ const Pricing = ({ openContactModal, formSubmitted }) => {
       propertyType: PROPERTY_TYPES.sqft2400
     },
      { 
-      type: "4 BHK Duplex", 
+      type: "4 BHK ", 
       price: "₹ 3.25 Cr ++", 
       size: "2,400 Sq.ft.", 
       image: bhk4,
